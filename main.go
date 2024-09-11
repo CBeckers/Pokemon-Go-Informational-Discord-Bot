@@ -21,8 +21,8 @@ import (
 )
 
 var (
-	// GuildID here
-	// BotToken here
+	GuildID = ""
+	BotToken = ""
 	commands = []*discordgo.ApplicationCommand{
 		{
 			Name:        "best",
