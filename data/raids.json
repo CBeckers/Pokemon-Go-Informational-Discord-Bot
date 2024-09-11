@@ -1,0 +1,346 @@
+[
+    {
+        "name": "Galarian Meowth",
+        "tier": "Tier 1",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "steel",
+                "image": "https://leekduck.com/assets/img/types/steel.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 546,
+                "max": 591
+            },
+            "boosted": {
+                "min": 682,
+                "max": 739
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "snowy",
+                "image": "https://leekduck.com/assets/img/weather/snowy.png"
+            }
+        ],
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png"
+    },
+    {
+        "name": "Galarian Slowpoke",
+        "tier": "Tier 1",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "psychic",
+                "image": "https://leekduck.com/assets/img/types/psychic.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 650,
+                "max": 700
+            },
+            "boosted": {
+                "min": 812,
+                "max": 876
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "windy",
+                "image": "https://leekduck.com/assets/img/weather/windy.png"
+            }
+        ],
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_31.png"
+    },
+    {
+        "name": "Galarian Zigzagoon",
+        "tier": "Tier 1",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "dark",
+                "image": "https://leekduck.com/assets/img/types/dark.png"
+            },
+            {
+                "name": "normal",
+                "image": "https://leekduck.com/assets/img/types/normal.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 258,
+                "max": 290
+            },
+            "boosted": {
+                "min": 323,
+                "max": 363
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "foggy",
+                "image": "https://leekduck.com/assets/img/weather/foggy.png"
+            },
+            {
+                "name": "partly",
+                "image": "https://leekduck.com/assets/img/weather/partlycloudy.png"
+            }
+        ],
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png"
+    },
+    {
+        "name": "Galarian Darumaka",
+        "tier": "Tier 1",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "ice",
+                "image": "https://leekduck.com/assets/img/types/ice.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 768,
+                "max": 823
+            },
+            "boosted": {
+                "min": 961,
+                "max": 1030
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "snowy",
+                "image": "https://leekduck.com/assets/img/weather/snowy.png"
+            }
+        ],
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_31.png"
+    },
+    {
+        "name": "Galarian Stunfisk",
+        "tier": "Tier 1",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "ground",
+                "image": "https://leekduck.com/assets/img/types/ground.png"
+            },
+            {
+                "name": "steel",
+                "image": "https://leekduck.com/assets/img/types/steel.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 1169,
+                "max": 1235
+            },
+            "boosted": {
+                "min": 1461,
+                "max": 1544
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "sunnyclear",
+                "image": "https://leekduck.com/assets/img/weather/sunny.png"
+            },
+            {
+                "name": "snowy",
+                "image": "https://leekduck.com/assets/img/weather/snowy.png"
+            }
+        ],
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png"
+    },
+    {
+        "name": "Garbodor",
+        "tier": "Tier 3",
+        "canBeShiny": false,
+        "types": [
+            {
+                "name": "poison",
+                "image": "https://leekduck.com/assets/img/types/poison.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 1271,
+                "max": 1339
+            },
+            "boosted": {
+                "min": 1589,
+                "max": 1675
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "cloudy",
+                "image": "https://leekduck.com/assets/img/weather/cloudy.png"
+            }
+        ],
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_569_00.png"
+    },
+    {
+        "name": "Galarian Weezing",
+        "tier": "Tier 3",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "poison",
+                "image": "https://leekduck.com/assets/img/types/poison.png"
+            },
+            {
+                "name": "fairy",
+                "image": "https://leekduck.com/assets/img/types/fairy.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 1242,
+                "max": 1310
+            },
+            "boosted": {
+                "min": 1553,
+                "max": 1637
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "cloudy",
+                "image": "https://leekduck.com/assets/img/weather/cloudy.png"
+            }
+        ],
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_110_31.png"
+    },
+    {
+        "name": "Lucario",
+        "tier": "Tier 3",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "fighting",
+                "image": "https://leekduck.com/assets/img/types/fighting.png"
+            },
+            {
+                "name": "steel",
+                "image": "https://leekduck.com/assets/img/types/steel.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 1469,
+                "max": 1544
+            },
+            "boosted": {
+                "min": 1837,
+                "max": 1930
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "cloudy",
+                "image": "https://leekduck.com/assets/img/weather/cloudy.png"
+            },
+            {
+                "name": "snowy",
+                "image": "https://leekduck.com/assets/img/weather/snowy.png"
+            }
+        ],
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00.png"
+    },
+    {
+        "name": "Azumarill",
+        "tier": "Tier 3",
+        "canBeShiny": false,
+        "types": [
+            {
+                "name": "water",
+                "image": "https://leekduck.com/assets/img/types/water.png"
+            },
+            {
+                "name": "fairy",
+                "image": "https://leekduck.com/assets/img/types/fairy.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 849,
+                "max": 907
+            },
+            "boosted": {
+                "min": 1061,
+                "max": 1134
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "rainy",
+                "image": "https://leekduck.com/assets/img/weather/rainy.png"
+            },
+            {
+                "name": "cloudy",
+                "image": "https://leekduck.com/assets/img/weather/cloudy.png"
+            }
+        ],
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_184_00.png"
+    },
+    {
+        "name": "Kyogre",
+        "tier": "Tier 5",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "water",
+                "image": "https://leekduck.com/assets/img/types/water.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 2260,
+                "max": 2351
+            },
+            "boosted": {
+                "min": 2825,
+                "max": 2939
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "rainy",
+                "image": "https://leekduck.com/assets/img/weather/rainy.png"
+            }
+        ],
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00.png"
+    },
+    {
+        "name": "Mega Absol",
+        "tier": "Mega",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "dark",
+                "image": "https://leekduck.com/assets/img/types/dark.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 1370,
+                "max": 1443
+            },
+            "boosted": {
+                "min": 1712,
+                "max": 1805
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "foggy",
+                "image": "https://leekduck.com/assets/img/weather/foggy.png"
+            }
+        ],
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm359.fMEGA.icon.png"
+    }
+]

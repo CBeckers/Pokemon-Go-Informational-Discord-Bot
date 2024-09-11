@@ -1,0 +1,725 @@
+[
+    {
+        "eventID": "raidhour20240911",
+        "name": "Kyogre Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20240911/",
+        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2024-09-11T18:00:00.000",
+        "end": "2024-09-11T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-showcase-skwovet-wooloo-2024-09-09-copy",
+        "name": "Skwovet and Wooloo PokéStop Showcases",
+        "eventType": "pokestop-showcase",
+        "heading": "PokéStop Showcase",
+        "link": "https://leekduck.com/events/pokemon-showcase-skwovet-wooloo-2024-09-09-copy/",
+        "image": "https://leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+        "start": "2024-09-09T10:00:00.000",
+        "end": "2024-09-11T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-absol-in-mega-raids-september-2024",
+        "name": "Mega Absol in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-absol-in-mega-raids-september-2024/",
+        "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2024-09-03T10:00:00.000",
+        "end": "2024-09-14T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Absol",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pm359.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Absol",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_359_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "kyogre-in-5-star-raid-battles-september-2024",
+        "name": "Kyogre in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/kyogre-in-5-star-raid-battles-september-2024/",
+        "image": "https://leekduck.com/assets/img/events/kyogre.jpg",
+        "start": "2024-09-03T10:00:00.000",
+        "end": "2024-09-14T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Kyogre",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Kyogre",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "september-communityday2024",
+        "name": "Ponyta Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/september-communityday2024/",
+        "image": "https://leekduck.com/assets/img/events/cd-2024-09-ponyta.jpg",
+        "start": "2024-09-14T14:00:00.000",
+        "end": "2024-09-14T17:00:00.000",
+        "extraData": {
+            "communityday": {
+                "spawns": [
+                    {
+                        "name": "Ponyta",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png"
+                    },
+                    {
+                        "name": "Galarian Ponyta",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_31.png"
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "text": "Increased Spawns",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/wildgrass.png"
+                    },
+                    {
+                        "text": "3x Catch Stardust",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/stardust3x.png"
+                    },
+                    {
+                        "text": "3-hour Incense**",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/incense.png"
+                    },
+                    {
+                        "text": "3-hour Lures***",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/luresall.png"
+                    },
+                    {
+                        "text": "2x Catch Candy",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/candy.png"
+                    },
+                    {
+                        "text": "2x Chance to receive Candy XL from catching Pokémon",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/candyxl.png"
+                    },
+                    {
+                        "text": "One additional Special Trade can be made for a maximum of two for the day*",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/trade.png"
+                    },
+                    {
+                        "text": "Trades made will require 50% less Stardust*",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/stardust2x.png"
+                    }
+                ],
+                "bonusDisclaimers": [
+                    "* While most bonuses are only active during the three hours of the event, these bonuses will be active from 2:00 p.m. to 10:00 p.m. local time.",
+                    "** The three-hour Incense bonus excludes Daily Adventure Incense.",
+                    "*** The three-hour lure bonus excludes Golden Lure Modules."
+                ],
+                "shinies": [
+                    {
+                        "name": "Ponyta",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00_shiny.png"
+                    },
+                    {
+                        "name": "Rapidash",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_078_00_shiny.png"
+                    },
+                    {
+                        "name": "Galarian Ponyta",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_31_shiny.png"
+                    },
+                    {
+                        "name": "Rapidash",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_078_31_shiny.png"
+                    }
+                ],
+                "specialresearch": [
+                    {
+                        "name": "Ponyta Community Day (1/?)",
+                        "step": 1,
+                        "tasks": [
+                            {
+                                "text": "???",
+                                "reward": {
+                                    "text": "???",
+                                    "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                                }
+                            },
+                            {
+                                "text": "???",
+                                "reward": {
+                                    "text": "???",
+                                    "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                                }
+                            },
+                            {
+                                "text": "???",
+                                "reward": {
+                                    "text": "???",
+                                    "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                                }
+                            }
+                        ],
+                        "rewards": [
+                            {
+                                "text": "???",
+                                "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                            },
+                            {
+                                "text": "???",
+                                "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                            },
+                            {
+                                "text": "???",
+                                "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "go-big-dynamax",
+        "name": "GO Big",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/go-big-dynamax/",
+        "image": "https://leekduck.com/assets/img/events/go-big-event.jpg",
+        "start": "2024-09-10T10:00:00.000",
+        "end": "2024-09-15T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "gbl-max-out_ultra-league_galar-cup-little-edition",
+        "name": "Ultra League and Galar Cup: Little Edition | Max Out",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-max-out_ultra-league_galar-cup-little-edition/",
+        "image": "https://leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2024-09-10T20:00:00.000Z",
+        "end": "2024-09-17T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2024-09-17",
+        "name": "Wobbuffet Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2024-09-17/",
+        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2024-09-17T18:00:00.000",
+        "end": "2024-09-17T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Wobbuffet",
+                "canBeShiny": true,
+                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_202_00.png",
+                "bonus": "2× Catch XP",
+                "list": [
+                    {
+                        "name": "Wobbuffet",
+                        "canBeShiny": true,
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_202_00.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20240918",
+        "name": "Groudon Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20240918/",
+        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2024-09-18T18:00:00.000",
+        "end": "2024-09-18T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-city-safari-jakarta-2024",
+        "name": "Jakarta, Indonesia - Pokémon GO City Safari",
+        "eventType": "city-safari",
+        "heading": "City Safari",
+        "link": "https://leekduck.com/events/pokemon-go-city-safari-jakarta-2024/",
+        "image": "https://leekduck.com/assets/img/events/city-safari-jakarta-2024.jpg",
+        "start": "2024-09-21T10:00:00.000",
+        "end": "2024-09-22T18:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "oranguru-and-passimian-research-day-september-2024",
+        "name": "Oranguru and Passimian Research Day",
+        "eventType": "research",
+        "heading": "Research",
+        "link": "https://leekduck.com/events/oranguru-and-passimian-research-day-september-2024/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-09-22T14:00:00.000",
+        "end": "2024-09-22T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "psychic-spectacular-2024",
+        "name": "Psychic Spectacular 2024",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/psychic-spectacular-2024/",
+        "image": "https://leekduck.com/assets/img/events/psychic-spectacular-2024.jpg",
+        "start": "2024-09-18T10:00:00.000",
+        "end": "2024-09-22T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "gbl-max-out_master-league_psychic-cup-great-league-edition",
+        "name": "Master League and Psychic Cup: Great League Edition | Max Out",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-max-out_master-league_psychic-cup-great-league-edition/",
+        "image": "https://leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2024-09-17T20:00:00.000Z",
+        "end": "2024-09-24T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2024-09-24",
+        "name": "Machop Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2024-09-24/",
+        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2024-09-24T18:00:00.000",
+        "end": "2024-09-24T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Machop",
+                "canBeShiny": true,
+                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png",
+                "bonus": "2× Catch Candy",
+                "list": [
+                    {
+                        "name": "Machop",
+                        "canBeShiny": true,
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20240925",
+        "name": "Groudon Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20240925/",
+        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2024-09-25T18:00:00.000",
+        "end": "2024-09-25T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-houndoom-in-mega-raids-september-2024",
+        "name": "Mega Houndoom in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-houndoom-in-mega-raids-september-2024/",
+        "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2024-09-14T10:00:00.000",
+        "end": "2024-09-26T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Houndoom",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Houndoom",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "groudon-in-5-star-raid-battles-september-2024",
+        "name": "Groudon in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/groudon-in-5-star-raid-battles-september-2024/",
+        "image": "https://leekduck.com/assets/img/events/groudon.jpg",
+        "start": "2024-09-14T10:00:00.000",
+        "end": "2024-09-26T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Groudon",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Groudon",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-safari-zone-icheon-south-korea-2024",
+        "name": "Incheon, South Korea - Pokémon GO Safari Zone",
+        "eventType": "safari-zone",
+        "heading": "Safari Zone",
+        "link": "https://leekduck.com/events/pokemon-go-safari-zone-icheon-south-korea-2024/",
+        "image": "https://leekduck.com/assets/img/events/safari-zone-icheon-south-korea-2024.jpg",
+        "start": "2024-09-27T10:30:00.000",
+        "end": "2024-09-29T19:30:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "shadow-raikou-in-shadow-raids-max-out",
+        "name": "Shadow Raikou in Shadow Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/shadow-raikou-in-shadow-raids-max-out/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-09-01T06:00:00.000",
+        "end": "2024-09-29T22:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Raikou",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_243_00.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Raikou",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_243_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "legendary-heroes",
+        "name": "Legendary Heroes",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/legendary-heroes/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-09-26T10:00:00.000",
+        "end": "2024-10-01T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "daily-pokecoin-bounty-ticket-max-out",
+        "name": "Daily PokéCoin Bounty Part 1 Ticket",
+        "eventType": "ticketed-event",
+        "heading": "Ticketed Event",
+        "link": "https://leekduck.com/events/daily-pokecoin-bounty-ticket-max-out/",
+        "image": "https://leekduck.com/assets/img/events/daily-pokecoin-bounty-max-out.jpg",
+        "start": "2024-09-03T00:00:00.000",
+        "end": "2024-10-02T11:59:59.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "zacian-in-5-star-raid-battles-september-2024",
+        "name": "Zacian in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/zacian-in-5-star-raid-battles-september-2024/",
+        "image": "https://leekduck.com/assets/img/events/zacian-and-zamazenta.jpg",
+        "start": "2024-09-26T10:00:00.000",
+        "end": "2024-10-04T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Zacian (Hero of Many Battles)",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pm888.fHERO.icon.png",
+                        "canBeShiny": false
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Zacian (Hero of Many Battles)",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/poke_capture_0888_000_uk_n_00000000_f_r.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-gardevoir-in-mega-raids-september-2024",
+        "name": "Mega Gardevoir in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-gardevoir-in-mega-raids-september-2024/",
+        "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2024-09-26T10:00:00.000",
+        "end": "2024-10-04T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Gardevoir",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pm282.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Gardevoir",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_282_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "october-communityday2024",
+        "name": "October Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/october-communityday2024/",
+        "image": "https://leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2024-10-05T14:00:00.000",
+        "end": "2024-10-05T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "unannounced-raid-day-october-2024",
+        "name": "Unannounced Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/unannounced-raid-day-october-2024/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-10-12T14:00:00.000",
+        "end": "2024-10-12T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "unannounced-research-day-october-2024",
+        "name": "Unannounced Research Day",
+        "eventType": "research",
+        "heading": "Research",
+        "link": "https://leekduck.com/events/unannounced-research-day-october-2024/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-10-19T14:00:00.000",
+        "end": "2024-10-19T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "november-communityday2024",
+        "name": "November Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/november-communityday2024/",
+        "image": "https://leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2024-11-10T14:00:00.000",
+        "end": "2024-11-10T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-wild-area-2024-fukuoka-japan",
+        "name": "Pokémon GO Wild Area: Fukuoka",
+        "eventType": "wild-area",
+        "heading": "Wild Area",
+        "link": "https://leekduck.com/events/pokemon-go-wild-area-2024-fukuoka-japan/",
+        "image": "https://leekduck.com/assets/img/events/pokemon-go-wild-area-2024-fukuoka.jpg",
+        "start": "2024-11-16T10:00:00.000",
+        "end": "2024-11-17T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-wild-area-2024-global",
+        "name": "Pokémon GO Wild Area: Global",
+        "eventType": "wild-area",
+        "heading": "Wild Area",
+        "link": "https://leekduck.com/events/pokemon-go-wild-area-2024-global/",
+        "image": "https://leekduck.com/assets/img/events/pokemon-go-wild-area-2024.jpg",
+        "start": "2024-11-23T10:00:00.000",
+        "end": "2024-11-24T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "season-16-max-out",
+        "name": "Max Out",
+        "eventType": "season",
+        "heading": "Season",
+        "link": "https://leekduck.com/events/season-16-max-out/",
+        "image": "https://leekduck.com/assets/img/events/season-16-max-out.jpg",
+        "start": "2024-09-03T10:00:00.000",
+        "end": "2024-12-03T10:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    }
+]
